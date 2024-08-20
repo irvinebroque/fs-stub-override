@@ -1,0 +1,1 @@
+export function readFile() { console.log("fake readFile") }
